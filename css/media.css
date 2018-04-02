@@ -1,0 +1,1232 @@
+/*==========  Desktop First Method  ==========*/
+
+
+@media only screen and (max-width : 1920px) {
+    .main-menu.minified li a {
+        color: #fff;
+    }
+    /*---PAGE_2---*/
+
+    /*---PAGE_2-end--*/
+    /*---PAGE_3---*/
+    .main-slides h1.slider-text-big {
+        font-size: 45px;
+    }
+    /*---PAGE_3-end---*/
+}
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1280px) {
+    /*---PAGE_1---*/
+    .about-sec {
+        padding: 50px 0 0;
+    }
+    .info-section {
+        padding: 50px 0 0;
+    }
+    .portfolio-section {
+        padding: 50px 0 0;
+    }
+    #team {
+        padding: 50px 0;
+    }
+    .clients-section {
+        padding: 50px 0;
+    }
+    .section-header {
+        margin-bottom: 0;
+    }
+    .menus .menus-container {
+        margin-bottom: 50px;
+    }
+    .main-menu .navbar-nav li a {
+        font-size: 11px;
+        padding: 0 3px;
+    }
+    .main-menu.minified {
+        background-color: #b52b24;
+    }
+    .main-menu.minified {
+        padding: 0;
+    }
+    .main-slides h1.slider-text-big {
+        font-size: 55px;
+    }
+    #section5 p {
+        font-size: 16px;
+    }
+    #section14 p {
+        font-size: 15px;
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    #section6 {
+        padding: 30px 0;
+    }
+    #section9 {
+        background-image: url("../images/Unhappy-businessman4.jpg");
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: top center;
+    }
+    .navbar-toggler {
+        margin: 10px 15px;
+    }
+    /*#section6 button {*/
+        /*margin-left: 15%;*/
+    /*}*/
+    /*---PAGE_1-end---*/
+    /*---PAGE_3---*/
+    /*#section14 p {*/
+        /*margin: 0;*/
+    /*}*/
+    .contact-section {
+        padding: 50px 0;
+    }
+    .main-slides h1.slider-text-big {
+        font-size: 50px;
+    }
+    /*---PAGE_3-end---*/
+}
+
+@media only screen and (max-width : 1280px) {
+    /*#section6 button {*/
+        /*margin-left: 40%;*/
+    /*}*/
+
+    #home {
+        background-position: center 0;
+    }
+
+}
+
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    #home .home_title {
+        font-size: 37px;
+    }
+    .home_subtitle {
+        font-size: 15px;
+    }
+    #section2 ul li {
+        font-size: 15px;
+    }
+    p {
+        color: #333;
+        font-size: 15px;
+    }
+    .padd {
+        padding: 20px 0;
+    }
+    #section7 h2 {
+        margin-bottom: 10px;
+    }
+    #section10 h2 {
+        padding: 0;
+    }
+    .list-what-we-can-do li {
+        font-size: 15px;
+    }
+    #section8 p {
+        font-size: 17px;
+        margin-bottom: 0;
+        margin-top: 15px;
+    }
+    #section2 p {
+        margin-top: 10px;
+    }
+    #section7 p {
+        font-size: 13px;
+    }
+    #section14 .mar_t {
+        margin-top: 10px;
+    }
+    #section7 .mar_t2 {
+        margin-top: 0;
+    }
+    .teams-section h2 span {
+        font-size: 28px;
+    }
+    /*---PAGE_1---*/
+    #section1 h3 {
+        font-size: 16px;
+        padding: 0;
+        margin-bottom: 5px;
+    }
+    #section1 p {
+        font-size: 13px;
+    }
+    #section1 .fa-stack {
+        font-size: 60px;
+    }
+    #section1 .fa-stack {
+        width: 2em;
+    }
+    .sp-layer {
+        color: #fff;
+        font-size: 22px;
+    }
+    .about-sec {
+        padding: 20px 0 0;
+    }
+    .btn-primary {
+        padding: 2px 7px;
+    }
+    /*#section6 button {*/
+        /*margin-left: 17%;*/
+    /*}*/
+    .section-header h2 {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    .portfolio-section {
+        padding: 50px 0 0;
+    }
+    .service-box h3 {
+        font-size: 20px;
+    }
+    /*---PAGE_1-end--*/
+
+    /*---PAGE_2--*/
+
+    /*---PAGE_2-end--*/
+
+    /*---PAGE_3---*/
+
+    .section-header {
+        margin-bottom: 15px;
+    }
+    #section5 .our-services h2 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    #section5 p {
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .info-section {
+        padding: 20px 0 30px 0;
+    }
+    #section4 h1 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .red {
+        padding: 20px 0;
+    }
+    #section2 {
+        padding: 20px 0 30px 0;
+    }
+    #section2 p {
+        font-size: 15px;
+    }
+    #section2 img {
+        width: 70%;
+    }
+    #section3 h2 {
+        padding: 0;
+    }
+    .menus .menus-container {
+        margin-bottom: 25px;
+    }
+    .menus.style3 .menu .food .food-details {
+        font-size: 15px;
+    }
+    .menus.style3 .menu .food .food-name,
+    .menus.style3 .menu .food .food-price {
+        font-size: 17px;
+    }
+    .menus.style3 .menu .food .food-name,
+    .menus.style3 .menu .food .food-price {
+        line-height: 1;
+    }
+    .menus .menu .food {
+        margin-bottom: 15px;
+    }
+    .menus .menu .food {
+        padding: 15px;
+    }
+    .menus.style3 .menu-column {
+        padding: 9px;
+    }
+    #section3 {
+        padding-bottom: 20px;
+    }
+    .info-section {
+        padding: 20px 0 30px 0;
+    }
+    #section4 h2 {
+        margin-bottom: 0;
+        padding: 0;
+    }
+    #section4 p {
+        font-size: 15px;
+    }
+    #section4 .pulse {
+        font-size: 40px;
+        margin: 20px 0 10px;
+    }
+    #section4 h3,
+    #section3 h3 {
+        font-size: 17px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #section4 .padd {
+        padding: 30px 0;
+    }
+    .btn {
+        font-size: 13px;
+    }
+    form .btn-primary {
+        padding: 5px 15px;
+    }
+    #section5 {
+        padding: 20px 0 30px 0;
+    }
+    .icon i {
+        font-size: 40px;
+    }
+    #section6 {
+        padding: 20px 0;
+    }
+    #section6 .our-services p {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    /*#section6 button {*/
+        /*margin-left: 23%;*/
+    /*}*/
+    #section7 h2 {
+        padding: 0;
+    }
+    #section7 .our-services p {
+        font-size: 15px;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    .section-wrapper {
+        padding: 20px 0 30px 0;
+    }
+    .section-wrapper h2 {
+        padding: 0;
+    }
+    .section-wrapper .our-services h3 {
+        padding: 0;
+    }
+    .section-wrapper .service-box p {
+        font-size: 15px;
+        padding: 0 9px;
+        text-align: left;
+        margin-bottom: 5px;
+    }
+    .service-box {
+        margin-bottom: 20px;
+    }
+    .btn-program {
+        padding: 5px 0;
+    }
+    #section9 {
+        padding: 20px 0 30px 0;
+    }
+    #section9 h2 {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #section9 h2 span {
+        font-size: 28px;
+        padding: 0;
+    }
+    #section9 p {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    .portfolio-section {
+        padding: 20px 0 30px 0;
+    }
+    #team {
+        padding: 20px 0 30px 0;
+    }
+    #team h3 {
+        font-size: 20px;
+        padding: 15px 0;
+        margin-bottom: 0;
+    }
+    #team p {
+        font-size: 15px;
+    }
+    .clients-section {
+        padding: 20px 0 30px 0;
+    }
+    .clients-section h2 {
+        padding: 0;
+        margin: 0;
+    }
+    .comment-pills .nav-item {
+        padding: 5px 5px;
+    }
+    .comment-pills .nav-item:nth-child(6) {
+        margin-left: 0;
+    }
+    .comment-pills .nav-item a {
+        font-size: 15px;
+    }
+    #clients .tab-content p {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    #contact h2 {
+        margin-bottom: 10px;
+    }
+    .form-control, input {
+        padding: 5px 15px;
+        font-size: 15px;
+    }
+    .footer-container p {
+        font-size: 15px;
+    }
+    .footer-container {
+        padding: 20px 30px;
+    }
+    #section2 .section-wrapper p {
+        margin: 10px 0 5px;
+    }
+    .nav-pills .nav-item {
+        padding: 5px 6px;
+    }
+    .padd {
+        padding: 20px 0;
+    }
+    #red_sect p {
+        font-size: 14px;
+    }
+    #section10 h2 {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    #section8 {
+        padding: 25px 0;
+    }
+    #section14 {
+        padding: 20px 0;
+    }
+    #section14 h2 {
+        font-size: 36px;
+    }
+    /*---PAGE_3-end---*/
+
+    /*---PAGE_4---*/
+    #section14 h2 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    #section14 .p_title {
+        font-size: 20px;
+    }
+    #section3 .section-header {
+        margin-bottom: 0;
+    }
+    #section10 {
+        padding: 15px 0;
+    }
+    #section18 .our-services h3 {
+        font-size: 27px;
+    }
+    #section8, #section7, #section18 {
+        padding: 20px 0;
+    }
+    #section9 h2 span {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    #section18 .section18_p {
+        padding-bottom: 15px;
+    }
+
+    /*---PAGE_4-end---*/
+
+}
+
+@media only screen and (max-width : 800px) {
+    .home_subtitle {
+        font-size: 14px;
+    }
+    #home .home_title {
+        font-size: 30px;
+    }
+    /*---PAGE_1---*/
+    /*#section6 button {*/
+        /*margin-left: 25px;*/
+    /*}*/
+    .sp-layer {
+        font-size: 17px;
+        padding-top: 30px;
+    }
+    #clients .section-header {
+        margin-bottom: 0;
+    }
+    #contact .section-header {
+        margin-bottom: 0;
+    }
+    .main-menu .navbar-nav li a {
+        font-size: 11px;
+    }
+    .main-slides h1.slider-text-big{
+        font-size: 45px;
+    }
+    #section1 .fa-stack {
+        margin: 0;
+        /*margin-left: 10px;*/
+    }
+    /*#section6 form {*/
+        /*margin-left: 40px;*/
+    /*}*/
+    .service-box p {
+        padding: 0 8px;
+        font-size: 15px;
+    }
+    #sectionA h3,
+    #sectionB h3,
+    #sectionC h3 {
+        font-size: 22px;
+    }
+    #sectionB p {
+        font-size: 18px;
+    }
+    .footer-container {
+        padding: 40px 30px;
+    }
+    .main-menu .navbar-nav li a {
+        padding: 0 3px;
+    }
+    .main-menu.minified {
+        background-color: #b52b24;
+    }
+    .teams-section h2 span {
+        font-size: 28px;
+    }
+    /*---PAGE_1-end---*/
+
+    /*---PAGE_2---*/
+    #section14 p {
+        font-size: 13px;
+    }
+    /*---PAGE_2-end---*/
+
+    /*---PAGE_3---*/
+    #section8 h3 {
+        font-size: 28px;
+    }
+    /*---PAGE_3-end---*/
+    /*---PAGE_4---*/
+    #section14 p {
+        font-size: 15px;
+    }
+    /*---PAGE_4-end---*/
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .home_subtitle {
+        font-size: 12px;
+    }
+    #home .home_title {
+        font-size: 29px;
+        padding-top: 200px;
+    }
+    #home {
+        height: 480px;
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 70% center;
+    }
+    .navbar-toggler {
+        border: 1px solid #000;
+    }
+    .main-menu .navbar-nav li a {
+        color: #fff !important;
+    }
+    /*Disable Animation on Mobile Devices*/
+    .animated {
+        /*CSS transitions*/
+        -o-transition-property: none !important;
+        -moz-transition-property: none !important;
+        -ms-transition-property: none !important;
+        -webkit-transition-property: none !important;
+        transition-property: none !important;
+        /*CSS transforms*/
+        -o-transform: none !important;
+        -moz-transform: none !important;
+        -ms-transform: none !important;
+        -webkit-transform: none !important;
+        transform: none !important;
+        /*CSS animations*/
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+    }
+
+    .our-services .service-box {
+        height: 100%;
+        margin-top: 10px;
+    }
+
+    textarea {
+        margin-top: 15px;
+    }
+    
+    .sp-layer {
+        right: 10%;
+    }
+}
+
+@media only screen and (max-width : 600px){
+    .comment-pills .nav-item {
+        padding: 10px 17px;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    #home .home_title {
+        font-size: 23px;
+        padding-top: 220px;
+    }
+    .home_subtitle {
+        font-size: 12px;
+    }
+    /*---PAGE_1---*/
+    .menus.style3 .menu .food .food-details {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .section-header h2 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    #section1 .fa-stack {
+        display: block;
+        width: 100%;
+    }
+    #section1 h3 {
+        font-size: 15px;
+    }
+
+    #section2 .sec2_p {
+        font-size: 18px;
+    }
+    #section3 h2 {
+        padding: 10px 0;
+    }
+    #section4 h3 {
+        font-size: 12px;
+    }
+    .section-wrapper .service-box h3 {
+        font-size: 14px;
+    }
+    .section-wrapper .service-box p {
+        font-size: 13px;
+    }
+    #section9 p {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    #sectionA h3, #sectionB h3, #sectionC h3 {
+        font-size: 17px;
+    }
+    #clients .tab-content p {
+        font-size: 13px;
+    }
+    .mar_t {
+        margin: 0;
+    }
+    #section3 h3 {
+        font-size: 15px;
+    }
+    #section10 .menu {
+        margin-left: 0;
+    }
+
+
+
+
+    .slider-pro p.sp-layer {
+        margin-right: -17%;
+        padding-top: 1px;
+    }
+    #section1 p {
+        font-size: 13px;
+    }
+    .main-slides p {
+        font-size: 11px;
+    }
+    /*#section6 button {*/
+        /*margin-left: 13%;*/
+    /*}*/
+    .section-wrapper {
+        padding: 25px 0;
+    }
+    .section-wrapper p {
+        font-size: 13px;
+    }
+    .section-wrapper .service-box {
+        padding: 0 10px;
+        margin: 0 15px;
+        margin-bottom: 10px;
+    }
+    #portfolio h2 {
+        font-size: 22px;
+    }
+    .form-control, input {
+        padding: 0;
+    }
+    .form-control {
+        font-size: 0.9rem;
+    }
+    #section2 img {
+        width: 80%;
+        margin-left: 10px;
+    }
+    #section2 p {
+        font-size: 12px;
+        padding: 0 15px;
+    }
+    #slider h1 {
+        text-align: left;
+    }
+    #section1 h3 {
+        margin-bottom: 5px;
+    }
+    .btn-primary {
+        font-size: 10px;
+        padding: 5px 5px;
+    }
+    .section-header {
+        margin-bottom: 14px;
+    }
+    .mtop {
+        margin-top: 50px;
+    }
+    .menus.style3 .menu .food .food-name, .menus.style3 .menu .food .food-price {
+        font-size: 10px;
+    }
+    .menus .menu .food {
+        padding: 5px;
+    }
+    .menus.style3 .menu .food .food-details {
+        font-size: 12px;
+        margin-top: 0;
+    }
+    #section4 .section-header p {
+        font-size: 15px;
+    }
+    .section-wrapper {
+        margin: 0;
+    }
+    .main-slides h1.slider-text-big {
+        color: #b46149;
+    }
+    #slider h1 {
+        font-size: 31px;
+    }
+    /*#section6 form {*/
+        /*margin-left: 0;*/
+    /*}*/
+    #section7 p {
+        font-size: 15px;
+        line-height: 1;
+        margin-bottom: 0.5rem;
+    }
+    #section7 .our-services img {
+        margin-bottom: 10px;
+    }
+    .our-services .btn-program {
+        margin-bottom: 50px;
+        width: 85%;
+    }
+    .nav-pills .nav-item {
+        padding: 5px;
+    }
+    .tab-content h3 {
+        margin-top: 10px;
+    }
+    #sectionA p, #sectionB p, #sectionC p {
+        font-size: 15px;
+    }
+    .testimonials blockquote p {
+        font-size: 13px;
+    }
+    .testimonials .carousel-info img {
+        height: 127px;
+        width: 130px;
+        padding: 0;
+    }
+    .carousel-info {
+        margin-left: 25%;
+    }
+    .testimonials span.testimonials-post {
+        font-size: 10px;
+    }
+    .contact-section {
+        padding: 20px 0;
+    }
+    #contactForm .btn-primary {
+        padding: 5px 25px;
+    }
+    .footer-container {
+        padding: 25px 30px;
+    }
+    .footer-container p {
+        font-size: 13px;
+    }
+    .footer-container h4 {
+        font-size: 15px;
+    }
+    .footer-social-info li {
+        margin: 0 10px 0 auto;
+    }
+    .pills-section a {
+        font-size: 11px;
+    }
+
+    #contact #email {
+        margin-top: 10px;
+    }
+    #clients h2 {
+        margin-bottom: 0;
+        padding: 0;
+    }
+    #team ul {
+        margin-left: 13%;
+    }
+    #sectionA p, #sectionB p, #sectionC p {
+        font-size: 13px;
+    }
+    footer p {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+    /*---PAGE_1-end---*/
+
+    /*---PAGE_2---*/
+    #section5 .our-services h2 {
+        font-size: 13px;
+        margin-bottom: 5px;
+        padding: 0 10px;
+    }
+    #section4 p {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    #section5 p {
+        font-size: 13px;
+    }
+    .food-details p {
+        font-size: 13px;
+    }
+    .menus .menu .food {
+        margin-bottom: 10px;
+    }
+    .padd {
+        padding: 0;
+    }
+    #section7 p {
+        font-size: 15px;
+    }
+    #section10 {
+        padding: 25px 0;
+    }
+    #section10 h2 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    #section8 {
+        padding: 20px 0;
+    }
+    #section8 .our-services h3 {
+        font-size: 26px;
+    }
+    .red p {
+        font-size: 13px;
+        padding: 0 10px;
+    }
+    .red .btn-primary {
+        padding: 5px 10px;
+    }
+    .teams-section h2 span {
+        font-size: 34px;
+    }
+    #section9 .section-header p {
+        font-size: 14px;
+    }
+    #contact .section-header h2 {
+        font-size: 18px;
+    }
+    /*---PAGE_3---*/
+    #slider h1 {
+        font-size: 27px;
+    }
+    #section7 .section-header p {
+        font-size: 11px;
+    }
+    #section4 h1 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    #section8 .our-services h3 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    #section8 p {
+        font-size: 20px;
+    }
+    .list-what-we-can-do li {
+        font-size: 13px;
+    }
+    #section8 p {
+        font-size: 15px;
+        margin-top: 20px;
+        padding: 0 10px;
+    }
+    #section14 h2 {
+        font-size: 17px;
+    }
+    #section79 p {
+        font-size: 15px;
+    }
+    #section79 .teams-section h2 span {
+        font-size: 25px;
+    }
+    .sp-layer {
+        font-size: 12px;
+    }
+    #section7 .our-services p {
+        padding: 0 15px;
+        text-align: left;
+    }
+    #section6 .our-services p {
+        font-size: 13px;
+        padding: 0 15px;
+    }
+    #section14 img {
+        margin-bottom: 10px;
+    }
+    #section79 h2 span {
+        font-size: 17px;
+    }
+    #section79 p {
+        font-size: 14px;
+    }
+    /*#section2 .p_bottom {*/
+        /*padding-top: 20px;*/
+    /*}*/
+    #section2 button {
+        margin-top: 10px;
+    }
+    /*---PAGE_3-end--*/
+
+    /*---PAGE_4---*/
+    #section2 ul {
+        padding: 0 10px;
+    }
+    #section2 ul li {
+        padding: 0 10px;
+    }
+    #section17 h2 span {
+        font-size: 25px;
+    }
+    #slider h1 {
+        font-size: 18px;
+    }
+    #section2 .btn-primary {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+    #section7 .section-header p {
+        font-size: 13px;
+        margin: 0;
+    }
+    #section18 .our-services h3 {
+        font-size: 25px;
+    }
+    .section18_p {
+        font-size: 17px;
+    }
+    #section18 h3 {
+        margin: 0;
+        padding: 0;
+    }
+    #section14 .p_title {
+        font-size: 16px;
+    }
+    #section14 p {
+        padding: 0 10px;
+    }
+    #section9 h2 span {
+        font-size: 17px;
+    }
+    #section9 .section-header p {
+        font-size: 13px;
+    }
+    #section2 ul li {
+        font-size: 13px;
+    }
+    #section17 h2 span {
+        font-size: 21px;
+    }
+    /*---PAGE_4-end---*/
+}
+
+@media only screen and (max-width : 360px) {
+    #slider .sp-slides-container .sp-image-container img {
+        margin-left: -534px;
+    }
+    #section3 .menu {
+        margin: 0;
+    }
+    #section3 h3 {
+        font-size: 13px;
+        padding-top: 10px;
+    }
+    #section14 p {
+        font-size: 13px;
+    }
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+    /*---PAGE_1---*/
+
+    .section-header h2 {
+        font-size: 15px;
+    }
+    #section4 h1 {
+        font-size: 18px;
+    }
+    #section4 h3 {
+        font-size: 11px;
+    }
+    .red .btn-primary {
+        padding: 5px;
+    }
+    .btn-primary {
+        font-size: 9px;
+    }
+    #section5 h2 {
+        margin-bottom: 0;
+    }
+    #section7 .our-services p {
+        font-size: 13px;
+    }
+    .section-wrapper p {
+        font-size: 12px;
+    }
+    .our-services .btn-program {
+        margin-bottom: 25px;
+    }
+    .btn-program {
+        padding: 0;
+    }
+    .btn {
+        font-size: 13px;
+    }
+    .teams-wrapper .btn-primary {
+        font-size: 13px;
+        padding: 3px 5px;
+    }
+
+
+
+
+
+    #section4 .section-header p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    #section6 .our-services p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    #section7 p {
+        margin-bottom: 0;
+    }
+    .nav-pills .nav-item {
+        padding: 4px 2px;
+    }
+    .pulse {
+        font-size: 50px;
+        margin: 15px 0 5px 0;
+    }
+    #section4 h1 {
+        margin-bottom: 0;
+    }
+    #section4 p {
+        font-size: 12px;
+    }
+    #section1 h3 {
+        font-size: 13px;
+        margin-bottom: 5px;
+        padding: 0;
+    }
+    #section1 p {
+        font-size: 12px;
+    }
+    .main-slides p {
+        font-size: 9px;
+    }
+    .btn-primary {
+        font-size: 11px;
+    }
+    .mtop {
+        margin-top: 55px;
+    }
+    .menus.style3 .menu-column {
+        padding: 0;
+    }
+    .menus .menus-container {
+        margin-bottom: 25px;
+    }
+    #section3 b {
+        font-size: 13px;
+    }
+    #section1 .fa-stack {
+        width: 5em;
+    }
+    .menus.style3 .menu .food .food-details {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .menus.style3 {
+        margin-top: 25px;
+    }
+    .btn-primary {
+        font-size: 10px;
+    }
+    #section6 p {
+        font-size: 13px;
+    }
+    .section-wrapper {
+        padding: 20px 0;
+    }
+    .teams-section h2 span {
+        font-size: 36px;
+    }
+    .teams-wrapper p {
+        font-size: 14px;
+    }
+    .teams-wrapper .btn-primary {
+        font-size: 13px;
+        padding: 5px;
+    }
+    #section9 {
+        padding: 10px 0;
+    }
+    #portfolio h2 {
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .pills-section a {
+        font-size: 10px;
+    }
+    .testimonials span.testimonials-post {
+        font-size: 8px;
+    }
+    .footer-social-info li {
+        margin: 0 5px 0 auto;
+    }
+    footer p {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+    /*---PAGE_1-end---*/
+
+    /*---PAGE_2---*/
+    #section2 .section-header h2 {
+        font-size: 15px;
+    }
+    #section7 p {
+        font-size: 13px;
+    }
+    #section4 .section-header h2 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    #section10 {
+        margin-top: 0;
+    }
+    #section8 .our-services h3 {
+        font-size: 15px;
+    }
+    .list-what-we-can-do li {
+        font-size: 15px;
+        padding: 7px 15px;
+    }
+    /*#section6 button {*/
+        /*margin-left: 16%;*/
+    /*}*/
+    /*---PAGE_2-end---*/
+
+    /*---PAGE_4---*/
+    .menus.style3 {
+        margin-top: 0;
+    }
+    #section18 .section18_h3 {
+        margin: 0;
+        padding: 10px 0;
+    }
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+@media (min-height: 680px) and (min-width : 1400px) {
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .hidden-xs {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 991px) {
+    .hidden-sm {
+        display: none !important;
+    }
+}
